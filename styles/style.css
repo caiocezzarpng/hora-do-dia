@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  background-color: gray;
+  font: normal 18pt Arial;
+  color: whitesmoke;
+}
+
+div#wrap {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  width: 100vw;
+}
+
+div#title {
+  text-align: center;
+}
+
+div#box {
+  background-color: white;
+  border-radius: 20px;
+  width: 50vw;
+  height: 60vh;
+  color: rgb(6, 6, 6);
+}
+
+#box img{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+div#footer{
+    font-size: 16px;
+    text-align: center;
+}

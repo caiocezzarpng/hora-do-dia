@@ -5,7 +5,7 @@ body {
   color: whitesmoke;
 }
 
-div#wrap {
+section#wrap {
   text-align: center;
   display: flex;
   justify-content: center;
@@ -14,7 +14,7 @@ div#wrap {
   width: 100vw;
 }
 
-div#title {
+header#title {
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ div#box {
   border-radius: 50%;
 }
 
-div#footer{
+  footer{
     font-size: 16px;
     text-align: center;
 }
